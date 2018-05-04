@@ -2,6 +2,8 @@
 <!-- Begin Default Content REMOVE THIS -->
 <h1>Congratulations</h1>
 <p>Results</p>
-<p>{! testResults()}</p>
+<!-- 
+<apex:outputText value="{!testNum}" /> -->
+
 <!-- End Default Content REMOVE THIS -->
 </apex:page>
