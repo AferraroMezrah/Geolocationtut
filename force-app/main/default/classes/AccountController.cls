@@ -7,11 +7,4 @@ public with sharing class AccountController {
                 LIMIT 50];
     }
 
-    public static list<Account> getClippy(){
-        Integer i = 0;
-        For(Contact c: contacts){
-            // what happns at fiasdlfkjasdf? asldkjfalskdjf
-         //
-        }
-    }
 }
